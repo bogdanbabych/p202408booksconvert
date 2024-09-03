@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BKAllocatedSize</key>
+	<integer>1458176</integer>
+	<key>BKDisplayName</key>
+	<string>Oliver Twist</string>
+	<key>BKGenerationCount</key>
+	<integer>3</integer>
+	<key>BKInsertionDate</key>
+	<integer>717951463</integer>
+	<key>artistName</key>
+	<string>Charles Dickens</string>
+	<key>book-info</key>
+	<dict>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>076F0BE27CF8978D521CC1C404647B82</string>
+		<key>publication-version</key>
+		<real>0.0</real>
+		<key>publisher-unique-id</key>
+		<string>9781101077696</string>
+		<key>unique-id</key>
+		<integer>7111851650221892366</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>bookDescription</key>
+	<string>SUMMARY: Nine-year-old Oliver has spent his life in a workhouse orphanage, where he becomes notorious for daring to ask for more food. Frustrated and hungry, he runs away to London, where he falls into the company of a gang of clever pickpockets, including Fagin, Bill Sykes, and the Artful Dodger. Oliver’s future looks uncertain, until a mysterious plot against him is unraveled by the kind Mr. Brownlow. What will become of poor Oliver Twist?</string>
+	<key>genre</key>
+	<string>Classics</string>
+	<key>isPreview</key>
+	<false/>
+	<key>itemName</key>
+	<string>Oliver Twist</string>
+	<key>updateDate</key>
+	<date>2023-10-02T14:57:43Z</date>
+</dict>
+</plist>

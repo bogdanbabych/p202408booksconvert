@@ -1,0 +1,367 @@
+<?xml version="1.0"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head>
+       <meta name="dtb:uid" content="http://www.hxa7241.org/articles/content/epup-guide_hxa7241_2007_1.epub"/>
+    </head>
+    <docTitle>
+       <text>Oliver Twist</text>
+    </docTitle>
+    <navMap>
+      <navPoint id="tp" playOrder="1">
+         <navLabel>
+            <text>Title Page</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_tp_r1.html"/>
+      </navPoint>
+      <navPoint id="cop" playOrder="2">
+         <navLabel>
+            <text>Copyright Page</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_cop_r1.html"/>
+      </navPoint>
+      <navPoint id="itr" playOrder="3">
+         <navLabel>
+            <text>Introduction</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_itr_r1.html"/>
+      </navPoint>
+      <navPoint id="c01" playOrder="4">
+         <navLabel>
+            <text>CHAPTER I</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c01_r1.html"/>
+      </navPoint>
+      <navPoint id="c02" playOrder="5">
+         <navLabel>
+            <text>CHAPTER II</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c02_r1.html"/>
+      </navPoint>
+      <navPoint id="c03" playOrder="6">
+         <navLabel>
+            <text>CHAPTER III</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c03_r1.html"/>
+      </navPoint>
+      <navPoint id="c04" playOrder="7">
+         <navLabel>
+            <text>CHAPTER IV</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c04_r1.html"/>
+      </navPoint>
+      <navPoint id="c05" playOrder="8">
+         <navLabel>
+            <text>CHAPTER V</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c05_r1.html"/>
+      </navPoint>
+      <navPoint id="c06" playOrder="9">
+         <navLabel>
+            <text>CHAPTER VI</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c06_r1.html"/>
+      </navPoint>
+      <navPoint id="c07" playOrder="10">
+         <navLabel>
+            <text>CHAPTER VII</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c07_r1.html"/>
+      </navPoint>
+      <navPoint id="c08" playOrder="11">
+         <navLabel>
+            <text>CHAPTER VIII</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c08_r1.html"/>
+      </navPoint>
+      <navPoint id="c09" playOrder="12">
+         <navLabel>
+            <text>CHAPTER IX</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c09_r1.html"/>
+      </navPoint>
+      <navPoint id="c10" playOrder="13">
+         <navLabel>
+            <text>CHAPTER X</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c10_r1.html"/>
+      </navPoint>
+      <navPoint id="c11" playOrder="14">
+         <navLabel>
+            <text>CHAPTER XI</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c11_r1.html"/>
+      </navPoint>
+      <navPoint id="c12" playOrder="15">
+         <navLabel>
+            <text>CHAPTER XII</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c12_r1.html"/>
+      </navPoint>
+      <navPoint id="c13" playOrder="16">
+         <navLabel>
+            <text>CHAPTER XIII</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c13_r1.html"/>
+      </navPoint>
+      <navPoint id="c14" playOrder="17">
+         <navLabel>
+            <text>CHAPTER XIV</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c14_r1.html"/>
+      </navPoint>
+      <navPoint id="c15" playOrder="18">
+         <navLabel>
+            <text>CHAPTER XV</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c15_r1.html"/>
+      </navPoint>
+      <navPoint id="c16" playOrder="19">
+         <navLabel>
+            <text>CHAPTER XVI</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c16_r1.html"/>
+      </navPoint>
+      <navPoint id="c17" playOrder="20">
+         <navLabel>
+            <text>CHAPTER XVII</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c17_r1.html"/>
+      </navPoint>
+      <navPoint id="c18" playOrder="21">
+         <navLabel>
+            <text>CHAPTER XVIII</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c18_r1.html"/>
+      </navPoint>
+      <navPoint id="c19" playOrder="22">
+         <navLabel>
+            <text>CHAPTER XIX</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c19_r1.html"/>
+      </navPoint>
+      <navPoint id="c20" playOrder="23">
+         <navLabel>
+            <text>CHAPTER XX</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c20_r1.html"/>
+      </navPoint>
+      <navPoint id="c21" playOrder="24">
+         <navLabel>
+            <text>CHAPTER XXI</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c21_r1.html"/>
+      </navPoint>
+      <navPoint id="c22" playOrder="25">
+         <navLabel>
+            <text>CHAPTER XXII</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c22_r1.html"/>
+      </navPoint>
+      <navPoint id="c23" playOrder="26">
+         <navLabel>
+            <text>CHAPTER XXIII</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c23_r1.html"/>
+      </navPoint>
+      <navPoint id="c24" playOrder="27">
+         <navLabel>
+            <text>CHAPTER XXIV</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c24_r1.html"/>
+      </navPoint>
+      <navPoint id="c25" playOrder="28">
+         <navLabel>
+            <text>CHAPTER XXV</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c25_r1.html"/>
+      </navPoint>
+      <navPoint id="c26" playOrder="29">
+         <navLabel>
+            <text>CHAPTER XXVI</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c26_r1.html"/>
+      </navPoint>
+      <navPoint id="c27" playOrder="30">
+         <navLabel>
+            <text>CHAPTER XXVII</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c27_r1.html"/>
+      </navPoint>
+      <navPoint id="c28" playOrder="31">
+         <navLabel>
+            <text>CHAPTER XXVIII</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c28_r1.html"/>
+      </navPoint>
+      <navPoint id="c29" playOrder="32">
+         <navLabel>
+            <text>CHAPTER XXIX</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c29_r1.html"/>
+      </navPoint>
+      <navPoint id="c30" playOrder="33">
+         <navLabel>
+            <text>CHAPTER XXX</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c30_r1.html"/>
+      </navPoint>
+      <navPoint id="c31" playOrder="34">
+         <navLabel>
+            <text>CHAPTER XXXI</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c31_r1.html"/>
+      </navPoint>
+      <navPoint id="c32" playOrder="35">
+         <navLabel>
+            <text>CHAPTER XXXII</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c32_r1.html"/>
+      </navPoint>
+      <navPoint id="c33" playOrder="36">
+         <navLabel>
+            <text>CHAPTER XXXIII</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c33_r1.html"/>
+      </navPoint>
+      <navPoint id="c34" playOrder="37">
+         <navLabel>
+            <text>CHAPTER XXXIV</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c34_r1.html"/>
+      </navPoint>
+      <navPoint id="c35" playOrder="38">
+         <navLabel>
+            <text>CHAPTER XXXV</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c35_r1.html"/>
+      </navPoint>
+      <navPoint id="c36" playOrder="39">
+         <navLabel>
+            <text>CHAPTER XXXVI</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c36_r1.html"/>
+      </navPoint>
+      <navPoint id="c37" playOrder="40">
+         <navLabel>
+            <text>CHAPTER XXXVII</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c37_r1.html"/>
+      </navPoint>
+      <navPoint id="c38" playOrder="41">
+         <navLabel>
+            <text>CHAPTER XXXVIII</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c38_r1.html"/>
+      </navPoint>
+      <navPoint id="c39" playOrder="42">
+         <navLabel>
+            <text>CHAPTER XXXIX</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c39_r1.html"/>
+      </navPoint>
+      <navPoint id="c40" playOrder="43">
+         <navLabel>
+            <text>CHAPTER XL</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c40_r1.html"/>
+      </navPoint>
+      <navPoint id="c41" playOrder="44">
+         <navLabel>
+            <text>CHAPTER XLI</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c41_r1.html"/>
+      </navPoint>
+      <navPoint id="c42" playOrder="45">
+         <navLabel>
+            <text>CHAPTER XI,II</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c42_r1.html"/>
+      </navPoint>
+      <navPoint id="c43" playOrder="46">
+         <navLabel>
+            <text>CHAPTER XLIII</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c43_r1.html"/>
+      </navPoint>
+      <navPoint id="c44" playOrder="47">
+         <navLabel>
+            <text>CHAPTER XLIV</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c44_r1.html"/>
+      </navPoint>
+      <navPoint id="c45" playOrder="48">
+         <navLabel>
+            <text>CHAPTER XLN</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c45_r1.html"/>
+      </navPoint>
+      <navPoint id="c46" playOrder="49">
+         <navLabel>
+            <text>CHAPTER XLVI</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c46_r1.html"/>
+      </navPoint>
+      <navPoint id="c47" playOrder="50">
+         <navLabel>
+            <text>CHAPTER XLVII</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c47_r1.html"/>
+      </navPoint>
+      <navPoint id="c48" playOrder="51">
+         <navLabel>
+            <text>CHAPTER XLVIII</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c48_r1.html"/>
+      </navPoint>
+      <navPoint id="c49" playOrder="52">
+         <navLabel>
+            <text>CHAPTER XLIX</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c49_r1.html"/>
+      </navPoint>
+      <navPoint id="c50" playOrder="53">
+         <navLabel>
+            <text>CHAPTER L</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c50_r1.html"/>
+      </navPoint>
+      <navPoint id="c51" playOrder="54">
+         <navLabel>
+            <text>CHAPTER LI</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c51_r1.html"/>
+      </navPoint>
+      <navPoint id="c52" playOrder="55">
+         <navLabel>
+            <text>CHAPTER LII</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c52_r1.html"/>
+      </navPoint>
+      <navPoint id="c53" playOrder="56">
+         <navLabel>
+            <text>CHAPTER LIII</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_c53_r1.html"/>
+
+      </navPoint>
+      <navPoint id="aft" playOrder="57">
+         <navLabel>
+            <text>AFTERWORD</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_aft_r1.html"/>
+      </navPoint>
+      <navPoint id="bib" playOrder="58">
+         <navLabel>
+            <text>SELECTED BIBLIOGRAPHY</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_bib_r1.html"/>
+      </navPoint>
+      <navPoint id="bm1" playOrder="59">
+         <navLabel>
+            <text>CHARLES DICKENS</text>
+         </navLabel>
+         <content src="dick_9781101077696_oeb_bm1_r1.html"/>
+      </navPoint>
+    </navMap>
+</ncx>

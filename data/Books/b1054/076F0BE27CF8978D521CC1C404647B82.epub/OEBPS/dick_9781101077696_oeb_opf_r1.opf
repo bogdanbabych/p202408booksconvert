@@ -1,0 +1,176 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Oliver Twist</dc:title>
+    <dc:creator xmlns:ns0="http://www.idpf.org/2007/opf" ns0:role="aut" ns0:file-as="Charles Dickens">Charles Dickens</dc:creator>
+    <dc:publisher>Puffin</dc:publisher>
+    <dc:format/>
+    <dc:description>SUMMARY:
+Nine-year-old Oliver has spent his life in a workhouse orphanage, where he becomes notorious for daring to ask for more food. Frustrated and hungry, he runs away to London, where he falls into the company of a gang of clever pickpockets, including Fagin, Bill Sykes, and the Artful Dodger. Oliver’s future looks uncertain, until a mysterious plot against him is unraveled by the kind Mr. Brownlow. What will become of poor Oliver Twist?</dc:description>
+    <dc:rights>NONE</dc:rights>
+    <dc:identifier id="bookid">9781101077696</dc:identifier>
+    <dc:subject>Classics</dc:subject>
+    <dc:date>2008-06-24T07:00:00+00:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:identifier xmlns:ns2="http://www.idpf.org/2007/opf" ns2:scheme="calibre">c38f1013-303a-4ee4-845d-8766685563c2</dc:identifier>
+    <dc:identifier xmlns:ns3="http://www.idpf.org/2007/opf" ns3:scheme="ISBN">9780141322438</dc:identifier>
+    <meta name="calibre:title_sort" content="Oliver Twist"/>
+    <meta name="calibre:author_link_map" content="{&quot;Charles Dickens&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="dick_9781101077696_oeb_cover_r1.html" id="cover" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_toc_r1.html" id="toc" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_ata_r1.html" id="ata" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_tp_r1.html" id="tp" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_cop_r1.html" id="cop" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_itr_r1.html" id="itr" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_prf_r1.html" id="prf" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_fm1_r1.html" id="fm1" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_fm2_r1.html" id="fm2" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c01_r1.html" id="c01" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c02_r1.html" id="c02" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c03_r1.html" id="c03" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c04_r1.html" id="c04" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c05_r1.html" id="c05" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c06_r1.html" id="c06" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c07_r1.html" id="c07" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c08_r1.html" id="c08" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c09_r1.html" id="c09" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c10_r1.html" id="c10" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c11_r1.html" id="c11" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c12_r1.html" id="c12" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c13_r1.html" id="c13" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c14_r1.html" id="c14" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c15_r1.html" id="c15" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c16_r1.html" id="c16" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c17_r1.html" id="c17" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c18_r1.html" id="c18" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c19_r1.html" id="c19" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c20_r1.html" id="c20" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c21_r1.html" id="c21" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c22_r1.html" id="c22" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c23_r1.html" id="c23" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c24_r1.html" id="c24" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c25_r1.html" id="c25" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c26_r1.html" id="c26" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c27_r1.html" id="c27" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c28_r1.html" id="c28" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c29_r1.html" id="c29" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c30_r1.html" id="c30" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c31_r1.html" id="c31" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c32_r1.html" id="c32" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c33_r1.html" id="c33" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c34_r1.html" id="c34" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c35_r1.html" id="c35" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c36_r1.html" id="c36" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c37_r1.html" id="c37" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c38_r1.html" id="c38" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c39_r1.html" id="c39" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c40_r1.html" id="c40" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c41_r1.html" id="c41" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c42_r1.html" id="c42" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c43_r1.html" id="c43" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c44_r1.html" id="c44" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c45_r1.html" id="c45" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c46_r1.html" id="c46" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c47_r1.html" id="c47" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c48_r1.html" id="c48" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c49_r1.html" id="c49" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c50_r1.html" id="c50" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c51_r1.html" id="c51" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c52_r1.html" id="c52" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_c53_r1.html" id="c53" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_aft_r1.html" id="aft" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_bib_r1.html" id="bib" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_bm1_r1.html" id="bm1" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_bm2_r1.html" id="bm2" media-type="application/xhtml+xml"/>
+    <item href="dick_9781101077696_oeb_ftn_r1.html" id="ftn" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="dick_9781101077696_oeb_css_r1.css" id="style" media-type="text/css"/>
+    <item href="dick_9781101077696_msr_cvi_r1.jpg" id="coverimagestandard" media-type="image/jpeg"/>
+    <item href="dick_9781101077696_msr_cvt_r1.jpg" id="thumbimagestandard" media-type="image/jpeg"/>
+    <item href="dick_9781101077696_msr_ppl_r1.jpg" id="PPCthumbnailimage" media-type="image/jpeg"/>
+    <item href="dick_9781101077696_oeb_001_r1.jpg" id="dick_9781101077696_oeb_001_r1" media-type="image/jpeg"/>
+    <item href="dick_9781101077696_oeb_002_r1.jpg" id="dick_9781101077696_oeb_002_r1" media-type="image/jpeg"/>
+    <item href="dick_9781101077696_oeb_003_r1.jpg" id="dick_9781101077696_oeb_003_r1" media-type="image/jpeg"/>
+    <item href="dick_9781101077696_oeb_004_r1.jpg" id="dick_9781101077696_oeb_004_r1" media-type="image/jpeg"/>
+    <item href="dick_9781101077696_oeb_005_r1.jpg" id="dick_9781101077696_oeb_005_r1" media-type="image/jpeg"/>
+    <item href="page-template.xpgt" id="pt" media-type="application/vnd.adobe.page-template+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover"/>
+    <itemref idref="toc"/>
+    <itemref idref="ata"/>
+    <itemref idref="tp"/>
+    <itemref idref="cop"/>
+    <itemref idref="itr"/>
+    <itemref idref="prf"/>
+    <itemref idref="fm1"/>
+    <itemref idref="fm2"/>
+    <itemref idref="c01"/>
+    <itemref idref="c02"/>
+    <itemref idref="c03"/>
+    <itemref idref="c04"/>
+    <itemref idref="c05"/>
+    <itemref idref="c06"/>
+    <itemref idref="c07"/>
+    <itemref idref="c08"/>
+    <itemref idref="c09"/>
+    <itemref idref="c10"/>
+    <itemref idref="c11"/>
+    <itemref idref="c12"/>
+    <itemref idref="c13"/>
+    <itemref idref="c14"/>
+    <itemref idref="c15"/>
+    <itemref idref="c16"/>
+    <itemref idref="c17"/>
+    <itemref idref="c18"/>
+    <itemref idref="c19"/>
+    <itemref idref="c20"/>
+    <itemref idref="c21"/>
+    <itemref idref="c22"/>
+    <itemref idref="c23"/>
+    <itemref idref="c24"/>
+    <itemref idref="c25"/>
+    <itemref idref="c26"/>
+    <itemref idref="c27"/>
+    <itemref idref="c28"/>
+    <itemref idref="c29"/>
+    <itemref idref="c30"/>
+    <itemref idref="c31"/>
+    <itemref idref="c32"/>
+    <itemref idref="c33"/>
+    <itemref idref="c34"/>
+    <itemref idref="c35"/>
+    <itemref idref="c36"/>
+    <itemref idref="c37"/>
+    <itemref idref="c38"/>
+    <itemref idref="c39"/>
+    <itemref idref="c40"/>
+    <itemref idref="c41"/>
+    <itemref idref="c42"/>
+    <itemref idref="c43"/>
+    <itemref idref="c44"/>
+    <itemref idref="c45"/>
+    <itemref idref="c46"/>
+    <itemref idref="c47"/>
+    <itemref idref="c48"/>
+    <itemref idref="c49"/>
+    <itemref idref="c50"/>
+    <itemref idref="c51"/>
+    <itemref idref="c52"/>
+    <itemref idref="c53"/>
+    <itemref idref="aft"/>
+    <itemref idref="bib"/>
+    <itemref idref="bm1"/>
+    <itemref idref="bm2"/>
+    <itemref idref="ftn"/>
+  </spine>
+  <guide>
+    <reference href="dick_9781101077696_oeb_toc_r1.html" title="Table of Contents" type="toc"/>
+    <reference href="dick_9781101077696_msr_cvi_r1.jpg" title="Cover" type="other.ms-coverimage-standard"/>
+    <reference href="dick_9781101077696_msr_cvt_r1.jpg" title="ThumbImageStandard" type="other.ms-thumbimage-standard"/>
+    <reference href="dick_9781101077696_msr_ppl_r1.jpg" title="PPCThumbnailImage" type="other.ms-thumbimage"/>
+    <reference href="dick_9781101077696_oeb_cop_r1.html" title="Copyright" type="copyright"/>
+  </guide>
+</package>
