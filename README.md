@@ -11,6 +11,11 @@ This is done via combining command line tools:
 
 The data should be in the project ./data/Books directory, which is on the same level as .src directory with code.
 
+Useful markdown link: 
+- [basic syntax](https://www.markdownguide.org/basic-syntax/)
+- [extended syntax](https://www.markdownguide.org/extended-syntax/)
+
+
 
 
 correct output:
